@@ -11,7 +11,7 @@ Lecturers:
 •	Dr. Aida Dhima
 •	M. Sc. Mohammad Ziyad Kagdi
 
-Project Details
+Project Details:
 Our Tourism Agency Website is a PHP and MySQL-based project designed to provide users with an interactive platform for exploring tourism packages, making inquiries, and managing content through an admin dashboard. The website ensures a user-friendly experience while maintaining dynamic content retrieval and database integration.
 This document outlines the main components, team responsibilities, and functionality of the website, explaining how different modules work together.
 
