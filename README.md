@@ -81,7 +81,8 @@ Repository Link: https://github.com/Deaa4/TravelAgencyProject
 
 
 
-Phase II: User Requirements and Application Specifications
+PHASE 2
+User Requirements and Application Specifications:
 
 1. Chosen Development Model
 
