@@ -175,3 +175,7 @@ Encryption: Sensitive user data is encrypted before storage.
 Access Control: Admins have restricted access to critical functionalities.
 
 ! [Database] (https://github.com/Deaa4/TravelAgencyProject/blob/dcd9ead7893fd22bd7867e0ec26278824eaefff7/database.png)
+
+! [Database] (https://github.com/Deaa4/TravelAgencyProject/blob/dcd9ead7893fd22bd7867e0ec26278824eaefff7/database.png)
+! [Activity Diagram] (https://github.com/Deaa4/TravelAgencyProject/blob/4c95129daf16b167352961c76dc5958a1b26e0f5/activity%20diagram.jpg)
+! [] ()
