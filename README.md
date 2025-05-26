@@ -79,8 +79,6 @@ Submission Deadline: 15.03.2025, 23:59 hours.
 
 Repository Link: https://github.com/Deaa4/TravelAgencyProject 
 
-! [Database] (https://github.com/Deaa4/TravelAgencyProject/blob/dcd9ead7893fd22bd7867e0ec26278824eaefff7/database.png)
-
 
 PHASE 2
 User Requirements and Application Specifications:
@@ -175,3 +173,5 @@ Authentication: User credentials stored securely with hashed passwords.
 Input Validation: Protection against SQL injection and XSS.
 Encryption: Sensitive user data is encrypted before storage.
 Access Control: Admins have restricted access to critical functionalities.
+
+! [Database] (https://github.com/Deaa4/TravelAgencyProject/blob/dcd9ead7893fd22bd7867e0ec26278824eaefff7/database.png)
