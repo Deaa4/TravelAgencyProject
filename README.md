@@ -12,10 +12,10 @@ Lecturers:
 •	M. Sc. Mohammad Ziyad Kagdi
 
 Project Details:
-Our Tourism Agency Website is a PHP and MySQL-based project designed to provide users with an interactive platform for exploring tourism packages, making inquiries, and managing content through an admin dashboard. The website ensures a user-friendly experience while maintaining dynamic content retrieval and database integration.
+Our Travel Agency Website is a PHP and MySQL-based project designed to provide users with an interactive platform for exploring tourism packages, making inquiries, and managing content through an admin dashboard. The website ensures a user-friendly experience while maintaining dynamic content retrieval and database integration.
 This document outlines the main components, team responsibilities, and functionality of the website, explaining how different modules work together.
 
-Project Title: Tourism Agency Website
+Project Title: Travel Agency Website
         
 Problem Statement:
 Many small tourism agencies lack a robust online platform to showcase their services, handle user inquiries, and manage dynamic content. As a result, agencies struggle to reach a wider audience, provide up-to-date information, and effectively compete in the rapidly growing travel market.
@@ -24,7 +24,7 @@ Solution Proposed:
 Our proposed solution is a feature-rich, PHP-and-MySQL-based tourism website. It provides an intuitive interface for customers to browse travel packages, submit inquiries, and view category-based services. An admin panel allows authorized personnel to update packages, manage categories, and monitor user inquiries in real-time.
 
 Project Scope:
-Aim: To build a comprehensive, user-friendly platform that seamlessly connects travelers with curated tourism packages and services, while enabling the agency to manage content with minimal effort.
+Aim: To build a comprehensive, user-friendly platform that seamlessly connects travelers with curated travel packages and services, while enabling the agency to manage content with minimal effort.
 Main Objectives:
 •	Implement dynamic content retrieval for travel packages, categories, and subcategories.
 •	Provide a secure login and dashboard for admin management.
@@ -33,7 +33,7 @@ Main Objectives:
 •	Maintain database efficiency for scalability.
 
 Application Description:
-The Tourism Agency Website offers an engaging homepage with featured packages, promotional sliders, and category overviews. Users can browse or filter packages, view detailed itineraries, and submit inquiries for more information. An admin dashboard facilitates the addition, deletion, or modification of travel packages and categories in real-time. Features include:
+The Travel Agency Website offers an engaging homepage with featured packages, promotional sliders, and category overviews. Users can browse or filter packages, view detailed itineraries, and submit inquiries for more information. An admin dashboard facilitates the addition, deletion, or modification of travel packages and categories in real-time. Features include:
 •	Dynamic Homepage: Showcases featured tours and promotional banners.
 •	Interactive Slider: Displays images of popular destinations.
 •	Category & Subcategory System: Organizes travel packages by region or type.
