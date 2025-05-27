@@ -174,3 +174,21 @@ Input Validation: Protection against SQL injection and XSS.
 Encryption: Sensitive user data is encrypted before storage.
 Access Control: Admins have restricted access to critical functionalities.
 
+PHASE 3
+
+The system architecture diagram presents the overall structure of the website. It shows how users interact with the frontend interface, how PHP scripts handle the logic in the backend, and how everything is connected to the MySQL database. This high-level view helps explain the big picture of your application’s workflow.
+
+The component diagram breaks down the system into its main parts, such as the login, enquiry, dashboard, and package modules. It shows how these components communicate with one another and how they rely on shared functions or database access. This type of diagram emphasizes the modularity and organization of the code.
+
+The class diagram visualizes the data model used in your application. It includes representations of entities like users, packages, categories, subcategories, and enquiries. Each class shows its attributes (such as name, email, or price) and the relationships between them. This helps clarify the structure of the data and how different parts of the system relate to each other.
+
+The sequence diagram demonstrates how operations flow during a specific process, such as submitting an enquiry. It illustrates step-by-step interactions between the user, the web interface, the backend code, and the database, helping to show the timeline and logic of user actions in the system.
+
+The use case diagram outlines the functionalities available to different types of users. For example, it shows that normal users can browse packages and send enquiries, while admins can log in, view dashboards, and manage packages. This diagram defines the scope of user interactions within the application.
+
+The activity diagram provides a flowchart-style visualization of how a task is performed, such as booking a package. It includes the steps from selecting a package to filling out the enquiry form and submitting it. This helps explain the logic and decision points in user workflows.
+
+The state diagram shows the different states an enquiry can be in, such as new, pending, or booked. It also describes how it transitions between these states depending on user or admin actions. This is useful for modeling the life cycle of important entities in your system.
+
+The entity-relationship diagram (ERD) represents the structure of your database. It includes tables like category, subcategory, package, enquiry, and users, and shows how they are connected using primary and foreign keys. This diagram is essential for understanding how data is stored and related within the database, forming the backbone of your application’s functionality.
+
